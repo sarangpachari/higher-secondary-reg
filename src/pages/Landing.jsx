@@ -11,7 +11,7 @@ const Landing = () => {
             <button className='text-white w-full hover:scale-95 transition animate-pulse rounded-full text-xl border-4 border-pink-500 bg-pink-600 px-2 py-1'>Register Now<i className='mx-3 fa-solid fa-arrow-right-from-bracket'></i></button>
             </Link>
         </div>
-        <div className='mt-10'>
+        <div className='mt-10 px-3 text-center'>
             <p className='font-light text-pink-500'>Copyright &copy; Designed and Developed by Sarang P Achari</p>
         </div>
     </div>
